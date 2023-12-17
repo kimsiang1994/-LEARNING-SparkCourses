@@ -6,3 +6,4 @@ Do note that this project works with PySpark, and uses the direct PyPi installat
 
 # Credits
 pyspark-examples (https://github.com/spark-examples/pyspark-examples/tree/master)
+pyspark-master (https://github.com/hyunjoonbok/PySpark/tree/master)
